@@ -1,2 +1,0 @@
-C:\Users\R\source\repos\RestServices\UnitTestCore\obj\Debug\UnitTestCore.csprojResolveAssemblyReference.cache
-C:\Users\R\source\repos\RestServices\UnitTestCore\obj\Debug\UnitTestCore.csproj.CoreCompileInputs.cache
